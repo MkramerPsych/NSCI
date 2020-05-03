@@ -1,2 +1,2 @@
-# NSCI
-Neuroscience @ Oberlin
+# NSCI 360
+Cognitive Neuroscience @ Oberlin
